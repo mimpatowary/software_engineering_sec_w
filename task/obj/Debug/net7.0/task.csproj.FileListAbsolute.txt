@@ -1,0 +1,15 @@
+/Users/mac/Documents/task/task/bin/Debug/net7.0/task
+/Users/mac/Documents/task/task/bin/Debug/net7.0/task.deps.json
+/Users/mac/Documents/task/task/bin/Debug/net7.0/task.runtimeconfig.json
+/Users/mac/Documents/task/task/bin/Debug/net7.0/task.dll
+/Users/mac/Documents/task/task/bin/Debug/net7.0/task.pdb
+/Users/mac/Documents/task/task/obj/Debug/net7.0/task.csproj.AssemblyReference.cache
+/Users/mac/Documents/task/task/obj/Debug/net7.0/task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/task/task/obj/Debug/net7.0/task.AssemblyInfoInputs.cache
+/Users/mac/Documents/task/task/obj/Debug/net7.0/task.AssemblyInfo.cs
+/Users/mac/Documents/task/task/obj/Debug/net7.0/task.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/task/task/obj/Debug/net7.0/task.dll
+/Users/mac/Documents/task/task/obj/Debug/net7.0/refint/task.dll
+/Users/mac/Documents/task/task/obj/Debug/net7.0/task.pdb
+/Users/mac/Documents/task/task/obj/Debug/net7.0/task.genruntimeconfig.cache
+/Users/mac/Documents/task/task/obj/Debug/net7.0/ref/task.dll
